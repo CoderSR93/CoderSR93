@@ -2,7 +2,8 @@
 - 👀 I’m interested in Game Dev, Cyber Security
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on my repositaries
-- 📫 How to reach me ... Email: coders.r00@gmail.com
+- 📫 How to reach me: 
+-                    ... Email: coders.r00@gmail.com
 -                    ... Instagram: coders.r00
 
 <!---
