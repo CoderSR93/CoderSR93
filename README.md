@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @CoderSR93
-- 👀 I’m interested in Game Dev, Cyber Security
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on my repositaries
+- 😎 You Know Who I am or you will
 - 📫 How to reach me: 
 -                    ... Email: coders.r00@gmail.com
 -                    ... Instagram: https://www.instagram.com/coders.r00/
